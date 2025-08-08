@@ -21,10 +21,4 @@ O objetivo do workshop foi apresentar conceitos práticos e avançados de proces
 
 ### Momento especial com os alunos
 
-![Foto com os alunos](https://github.com/lis-r-barreto/ufs-ensef-2025-minicurso-processamento-big-data-spark/blob/main/ufs-ensef-2025.jpeg)  
-
-*Registro do encontro e da troca de conhecimentos com os participantes.*
-
----
-
-Sinta-se à vontade para explorar os conteúdos, praticar e aprofundar seus conhecimentos em big data e machine learning aplicados à física e outras áreas!
+![Foto com os alunos](https://github.com/lis-r-barreto/ufs-ensef-2025-minicurso-processamento-big-data-spark/blob/main/ufs-ensef-2025.jpeg)
